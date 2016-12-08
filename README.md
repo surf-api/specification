@@ -1,14 +1,13 @@
 # SURF API Specification
 Open API specification for the SURF API.
 
-![SURF API](logo.png)
+![SURF API](surflogo.png)
 
 This repository contains the [Open API](https://github.com/surf-api/specification) specification for the [SURF API](https://api.surf.nl/).
 
 * [Roadmap](#roadmap)
 * [Documentation](#documentation)
 * [Contributing](#contributing)
-* [Community](#community)
 
 If you have a question, an idea or some feedback unrelated to the specification, please send a mail to info@mysurf.nl.
 
@@ -34,6 +33,3 @@ The specification can be rendered as HTML documentation:
 
 The Open Education API is an open source, community-driven project. If you'd like to contribute, please follow the [Contributing Guidelines](CONTRIBUTING.md).
 
-## Community
-
-The Open Education API is driven by the [Open Education API Working Group](https://openonderwijsapi.nl/en/community/). The working group includes representatives of higher education institutions and suppliers.
